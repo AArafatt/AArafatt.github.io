@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G M Shahariar Shibli"
+title                    : "MD Arafat Alam Khandaker"
 title_separator          : "-"
-name                     : &name "G M Shahariar Shibli"
+name                     : &name "MD Arafat Alam Khandaker"
 description              : &description "Website"
-url                      : https://shahariar-shibli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AArafatt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shahariar-shibli/shahariar-shibli.github.io"
+repository               : "AArafatt/AArafatt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "G M Shahariar Shibli"
+  name             : "MD Arafat Alam Khandaker"
   avatar           : "profile.jpg"
-  bio              : "PhD Student @ UC Riverside || LLMs, AI Safety, Bias & Fairness"
-  location         : "Riverside, California, USA"
+  bio              : "Your Bio"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en"
-  email            : "sshibli745@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/G-Shahariar"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57844100100"
-  semanticscholar  : "https://www.semanticscholar.org/author/G.-M.-Shahariar/100649170"
+  googlescholar    : "https://scholar.google.com/citations?user=zWprjdUAAAAJ&hl=en"
+  email            : "aarafatalam18@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Md-Khandaker-5/research"
+  # scopus           : "Your Scopus URL"
+  semanticscholar  : "https://www.semanticscholar.org/me/library/all"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shahariar-shibli"
+  github           : "AArafatt"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shahariar-shibli"
-  orcid            : "http://orcid.org/0000-0001-9757-7663"
+  linkedin         : "Md Arafat Alam Khandaker"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-5740-4943"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "G_M_Shahariar"
+  # twitter          : "your-twitter-username"
   vine             :
   weibo            :
   xing             :
