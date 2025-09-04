@@ -1,9 +1,9 @@
-  ---
-  layout: archive
-  title: "Publications"
-  permalink: /publications/
-  author_profile: true
-  ---
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
   <span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=zWprjdUAAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</span><br>
   <span style="color:black; font-family:Georgia;">[*] denotes equal contribution</span>
