@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /teaching/
-title: "Academic & Research Experience"
+permalink: /work-experience/
+title: "Work Experience"
 ---
 
 > <p>"When one teaches, two learn" <br> &nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
