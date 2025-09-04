@@ -172,6 +172,8 @@
   <br>
   [<a style="color:red;" href="#" onclick="$('#paper5_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2501.05426)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](your-code-url)] [<a style="color:red;" href="#" onclick="$('#paper5_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
+  <div id="paper5_bib" class="bib" style="display:none;">
+      <pre>
   @inproceedings{khandaker2024images,
   title={From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI},
   author={Khandaker, Md Arafat Alam and Raha, Ziyan Shirin and Iqbal, Salehin Bin and Mridha, MF and Shin, Jungpil},
@@ -194,7 +196,7 @@
   <!-- Paper 6 -->
   📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Bridging Dialects: Translating Standard Bangla to Regional Variants Using Neural Models**</span>](https://arxiv.org/pdf/2501.05749) (<span style="color:red"><strong>Conference</strong></span>)<br>
   <span style="color:black;font-family:Georgia">
-    <font size="3"><strong>Authors</strong>: <strong style="color:green">Md Arafat Alam Khandaker</strong>, Md. Arafat Alam Khandaker, Ziyan Shirin Raha, Bidyarthi Paul, Tashreef Muhammad</font>
+    <font size="3"><strong>Authors</strong>: <strong style="color:green">Md Arafat Alam Khandaker</strong>, Ziyan Shirin Raha, Bidyarthi Paul, Tashreef Muhammad</font>
   </span>
   <br>
     <span style="color:black;font-family:Georgia">
@@ -205,6 +207,8 @@
   <br>
   [<a style="color:red;" href="#" onclick="$('#paper6_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2501.05749)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](your-code-url)] [<a style="color:red;" href="#" onclick="$('#paper6_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
+  <div id="paper6_bib" class="bib" style="display:none;">
+      <pre>
 @inproceedings{khandaker2024bridging,
   title={Bridging Dialects: Translating Standard Bangla to Regional Variants Using Neural Models},
   author={Khandaker, Md Arafat Alam and Raha, Ziyan Shirin and Paul, Bidyarthi and Muhammad, Tashreef},
@@ -217,10 +221,10 @@
 </pre>
   </div>
 
-  <div id="paper5_abstract" class="abstract" style="display:none;">
+  <div id="paper6_abstract" class="abstract" style="display:none;">
     <p style="text-align:justify; color:black;font-family:Monaco;"> 
       <font size="3">
-        [The Bangla language includes many regional dialects, adding to its cultural richness. The translation of Bangla Language into regional dialects presents a challenge due to significant variations in vocabulary, pronunciation, and sentence structure across regions like Chittagong, Sylhet, Barishal, Noakhali, and Mymensingh. These dialects, though vital to local identities, lack of representation in technological applications. This study addresses this gap by translating standard Bangla into these dialects using neural machine translation (NMT) models, including BanglaT5, mT5, and mBART50. The work is motivated by the need to preserve linguistic diversity and improve communication among dialect speakers. The models were finetuned using the “Vashantor” dataset, containing 32,500 sentences across various dialects, and evaluated through Character Error Rate (CER) and Word Error Rate (WER) metrics. BanglaT5 demonstrated superior performance with a CER of 12.3% and WER of 15.7%, highlighting its effectiveness in capturing dialectal nuances. The outcomes of this research contribute to the development of inclusive language technologies that support regional dialects and promote linguistic diversity.]
+        [The Bangla language includes many regional dialects, adding to its cultural richness. The translation of Bangla Language into regional dialects presents a challenge due to significant variations in vocabulary, pronunciation, and sentence structure across regions like Chittagong, Sylhet, Barishal, Noakhali, and Mymensingh. These dialects, though vital to local identities, lack of representation in technological applications. This study addresses this gap by translating standard Bangla into these dialects using neural machine translation (NMT) models, including BanglaT5, mT5, and mBART50. The work is motivated by the need to preserve linguistic diversity and improve communication among dialect speakers. The models were finetuned using the "Vashantor" dataset, containing 32,500 sentences across various dialects, and evaluated through Character Error Rate (CER) and Word Error Rate (WER) metrics. BanglaT5 demonstrated superior performance with a CER of 12.3% and WER of 15.7%, highlighting its effectiveness in capturing dialectal nuances. The outcomes of this research contribute to the development of inclusive language technologies that support regional dialects and promote linguistic diversity.]
       </font>
     </p>
   </div>
