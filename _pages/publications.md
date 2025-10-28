@@ -6,10 +6,9 @@ author_profile: true
 ---
 
   <span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=zWprjdUAAAAJ&hl=en"><em>[Google Scholar]</em></a> profile.</span><br>
-  <span style="color:black; font-family:Georgia;">[*] denotes equal contribution</span>
+[*] denotes equal contribution
 
-  ## 2025
-  ---------
+<div style="font-size: 1.8em; color: #333; border-bottom: 2px solid #ccc; margin-bottom: 15px; padding-bottom: 5px;">2025</div>
 
   <!-- Paper 01 -->
   📌 [<span style="color:Blue;font-family:Trebuchet MS;">**MultiBanFakeDetect: Integrating advanced fusion techniques for multimodal detection of Bangla fake news in under-resourced contexts**</span>](https://www.sciencedirect.com/science/article/pii/S2667096825000291) (<span style="color:red"><strong>Q1 Journal</strong></span>)<br>
@@ -22,7 +21,7 @@ author_profile: true
       International Journal of Information Management Data Insights
     </a>
   </em>
-  [<a style="color:red;" href="#" onclick="$('#paper1_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://pdf.sciencedirectassets.com/778772/1-s2.0-S2667096825X00021/1-s2.0-S2667096825000291/main.pdf?...)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://data.mendeley.com/datasets/k5pbz9795f/1)] [<a style="color:red;" href="#" onclick="$('#paper1_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+  [<a style="color:red;" href="#" onclick="$('#paper1_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://pdf.sciencedirectassets.com/778772/1-s2.0-S2667096825X00021/1-s2.0-S2667096825000291/main.pdf?...)] [<a style="color:red;" href="#" onclick="$('#paper1_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
   <div id="paper1_bib" class="bib" style="display:none;">
       <pre>
@@ -61,7 +60,7 @@ author_profile: true
       </font>
     </span>
   <br>
-  [<a style="color:red;" href="#" onclick="$('#paper2_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](your-pdf-url)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](your-code-url)] [<a style="color:red;" href="#" onclick="$('#paper2_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+  [<a style="color:red;" href="#" onclick="$('#paper2_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](your-pdf-url)] [<a style="color:red;" href="#" onclick="$('#paper2_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
   <div id="paper2_bib" class="bib" style="display:none;">
       <pre>
@@ -96,7 +95,7 @@ author_profile: true
       </font>
     </span>
   <br>
-  [<a style="color:red;" href="#" onclick="$('#paper3_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](your-pdf-url)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](your-code-url)] [<a style="color:red;" href="#" onclick="$('#paper3_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+  [<a style="color:red;" href="#" onclick="$('#paper3_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](your-pdf-url)] [<a style="color:red;" href="#" onclick="$('#paper3_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
   <div id="paper3_bib" class="bib" style="display:none;">
       <pre>
@@ -119,8 +118,7 @@ author_profile: true
       </p>
   </div>
 
-  ## 2024
-  ---------
+  <div style="font-size: 1.8em; color: #333; border-bottom: 2px solid #ccc; margin-bottom: 15px; padding-bottom: 5px;">2024</div>
 
   <!-- Paper 4 -->
   📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**</span>](https://arxiv.org/abs/2501.05449) (<span style="color:red"><strong>Conference</strong></span>)<br>
@@ -134,7 +132,7 @@ author_profile: true
       </font>
     </span>
   <br>
-  [<a style="color:red;" href="#" onclick="$('#paper4_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2501.05449)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](your-code-url)] [<a style="color:red;" href="#" onclick="$('#paper4_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+  [<a style="color:red;" href="#" onclick="$('#paper4_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2501.05449)] [<a style="color:red;" href="#" onclick="$('#paper4_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
   <div id="paper4_bib" class="bib" style="display:none;">
     <pre>
@@ -170,7 +168,7 @@ author_profile: true
       </font>
     </span>
   <br>
-  [<a style="color:red;" href="#" onclick="$('#paper5_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2501.05426)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](your-code-url)] [<a style="color:red;" href="#" onclick="$('#paper5_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+  [<a style="color:red;" href="#" onclick="$('#paper5_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2501.05426)] [<a style="color:red;" href="#" onclick="$('#paper5_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
   <div id="paper5_bib" class="bib" style="display:none;">
       <pre>
@@ -205,7 +203,7 @@ author_profile: true
       </font>
     </span>
   <br>
-  [<a style="color:red;" href="#" onclick="$('#paper6_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2501.05749)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](your-code-url)] [<a style="color:red;" href="#" onclick="$('#paper6_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+  [<a style="color:red;" href="#" onclick="$('#paper6_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2501.05749)] [<a style="color:red;" href="#" onclick="$('#paper6_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
   <div id="paper6_bib" class="bib" style="display:none;">
       <pre>
