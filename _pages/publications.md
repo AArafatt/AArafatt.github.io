@@ -15,6 +15,7 @@ author_profile: true
   <span style="color:black;font-family:Georgia">
     <font size="3"><strong>Authors</strong>: Faria, Fatema Tuj Johora and Moin, Mukaffi Bin and Hasan, Zayeed and <strong style="color:green">Khandaker, Md. Arafat Alam</strong> and Islam, Niful and Hasib, Khan Md and Mridha, M.F.</font>
   </span>
+  <br>
   <strong>Journal: </strong>
   <em>
     <a href="https://www.sciencedirect.com/journal/international-journal-of-information-management-data-insights" target="_blank">

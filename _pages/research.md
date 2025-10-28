@@ -25,7 +25,7 @@ Applying XAI with deep learning to medical diagnosis and agriculture.
 </p>
 
 ### Related Papers:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures</span>. Md. Arafat Alam Khandaker, Ziyan Shirin Raha, Shifat Islam, Tashreef Muhammad. <span style="color:green;"><em>arXiv preprint (2025)</em></span>. [[PDF]](https://arxiv.org/pdf/2501.05449)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures</span>. Md. Arafat Alam Khandaker, Ziyan Shirin Raha, Shifat Islam, Tashreef Muhammad. <span style="color:green;">ICCIT 2024</em></span>. [[PDF]](https://arxiv.org/pdf/2501.05449)</span>
 
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI</span>. Md. Arafat Alam Khandaker, Ziyan Shirin Raha, Salehin Bin Iqbal, M.F. Mridha, Jungpil Shin. <span style="color:green;"><em>ICCIT 2024</em></span>. [[PDF]](https://arxiv.org/pdf/2501.05426)</span>
 
@@ -37,7 +37,7 @@ Fusion of text–image to detect fake news in low-resource settings.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">MultiBanFakeDetect: Integrating Advanced Fusion Techniques for Multimodal Detection of Bangla Fake News in Under-Resourced Contexts</span>. Fatema Tuj Johora Faria, Mukaffi Bin Moin, Zayeed Hasan, <b>Md. Arafat Alam Khandaker</b>, Niful Islam, Khan Md. Hasib, M.F. Mridha. <span style="color:green;"><em>International Journal of Information Management Data Insights (Q1), 2025</em></span>. [[PDF]](https://www.sciencedirect.com/science/article/pii/S2667096825000291)</span>
 
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Multimodal Classification of Software Issue Reports Using CLIP: A Fine-Tuned Approach for Bug and Feature Detection</span>. Y Arafah, S Shejin, S Akhter, Md. Arafat Alam Khandaker. <span style="color:green;"><em>Proceedings of the 4th International Conference on Electrical, Computer, and Communication Engineering (ECCE 2025)</em></span>. [[PDF]](https://www.researchgate.net/profile/Shamim-Akhter-6/publication/392216960_Multimodal_Classification_of_Software_Issue_Reports_Using_CLIP_A_Fine-Tuned_Approach_for_Bug_and_Feature_Detection/links/6839aee46b5a287c30484611/Multimodal-Classification-of-Software-Issue-Reports-Using-CLIP-A-Fine-Tuned-Approach-for-Bug-and-Feature-Detection.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Multimodal Classification of Software Issue Reports Using CLIP: A Fine-Tuned Approach for Bug and Feature Detection</span>. Y Arafah, S Shejin, S Akhter, Md. Arafat Alam Khandaker. <span style="color:green;"><em>ECCE 2025</em></span>. [[PDF]](https://www.researchgate.net/profile/Shamim-Akhter-6/publication/392216960_Multimodal_Classification_of_Software_Issue_Reports_Using_CLIP_A_Fine-Tuned_Approach_for_Bug_and_Feature_Detection/links/6839aee46b5a287c30484611/Multimodal-Classification-of-Software-Issue-Reports-Using-CLIP-A-Fine-Tuned-Approach-for-Bug-and-Feature-Detection.pdf)</span>
 
 
 
