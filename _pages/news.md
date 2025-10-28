@@ -4,7 +4,7 @@ title: ""
 permalink: /news/
 author_profile: true
 ---
- 
+
 # 2025
 
 - <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> - One paper got published in the International Journal of Information Management Data Insights.</span>

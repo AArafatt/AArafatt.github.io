@@ -15,7 +15,7 @@ I am Md. Arafat Alam Khandaker, an AI researcher and software engineer passionat
 </p>
 
 <p style="text-align:justify;color:black; font-family:Georgia">
-I am currently working as a Software Engineering Intern (AI/ML) at Cloudly Infotech Limited, where I design and develop AI-driven solutions, including HR intelligence agents and log-analysis platforms. Previously, I served as a Research Assistant at the Applied Intelligent Systems and Information Processing (AISIP) Lab, Ahsanullah University of Science and Technology. I hold a Bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
+I am currently working as a Software Engineer (AI/ML) at Cloudly Infotech Limited, where I design and develop AI-driven solutions, including HR intelligence agents and log-analysis platforms. Previously, I served as a Research Assistant at the Applied Intelligent Systems and Information Processing (AISIP) Lab, Ahsanullah University of Science and Technology. I hold a Bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
 </p>
 
 <p style="text-align:justify;color:black; font-family:Georgia">
@@ -25,6 +25,11 @@ My research focuses on <b>Natural Language Processing, Multimodal AI, Explainabl
 
 ## Recent News ⚡
 
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[Date]</span> [Your news item here]</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[Date]</span> [Your news item here]</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[Date]</span> [Your news item here]</span>
+# 2025
+
+- <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> - One paper got published in the International Journal of Information Management Data Insights.</span>
+- <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> - Two papers got accepted at ECCE-2025.</span>
+
+# 2024
+
+- <span style="font-family:Monaco; color:black;"><span style="color:brown">[December]</span> - Three papers got published at ICCIT 2024.</span>
