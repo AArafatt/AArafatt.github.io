@@ -25,7 +25,7 @@ Applying XAI with deep learning to medical diagnosis and agriculture.
 </p>
 
 ### Related Papers:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures</span>. Md. Arafat Alam Khandaker, Ziyan Shirin Raha, Shifat Islam, Tashreef Muhammad. <span style="color:green;">ICCIT 2024</em></span>. [[PDF]](https://arxiv.org/pdf/2501.05449)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures</span>. Md. Arafat Alam Khandaker, Ziyan Shirin Raha, Shifat Islam, Tashreef Muhammad. <span style="color:green;">ICCIT 2024</span>. [[PDF]](https://arxiv.org/pdf/2501.05449)</span>
 
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI</span>. Md. Arafat Alam Khandaker, Ziyan Shirin Raha, Salehin Bin Iqbal, M.F. Mridha, Jungpil Shin. <span style="color:green;"><em>ICCIT 2024</em></span>. [[PDF]](https://arxiv.org/pdf/2501.05426)</span>
 
